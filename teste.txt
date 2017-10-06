@@ -2,8 +2,9 @@ linha 1 teste 1
 
 linha 2 teste 2
 
-linha 3
+linha 3 master
 
+<<<<<<< HEAD
 
 linha 0
 
@@ -11,3 +12,12 @@ linha 9
 
 linha 8
 
+||||||| merged common ancestors
+=======
+
+linha 4
+
+linha 5
+
+linha 5
+>>>>>>> master
